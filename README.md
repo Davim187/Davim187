@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davim187&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davim187&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davim187&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologia que uso no meu dia
 
 <div style="display: inline_block">
