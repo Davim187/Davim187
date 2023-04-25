@@ -1,8 +1,16 @@
-### Ola, sou o Davi Morais 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Morais;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davim187&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviM187)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center"> 
+<a href="https://www.instagram.com/davim38/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.daviimorais187@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davi-morais-46680b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  </div>
+  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Davim187&bg_color=000000&color=ffffff&line=ffffff&point=846bff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Tecnologia que uso no meu dia
 
 <div style="display: inline_block">
@@ -14,4 +22,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
