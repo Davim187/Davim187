@@ -36,10 +36,3 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" />
 </div><br/>
 
-	
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davim187}/count.svg" /></p> 
-<br>
-</div>
