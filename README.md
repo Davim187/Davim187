@@ -27,12 +27,13 @@
   <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 	
 ## Studying in this moment:
 	
 <div style="display: inline_block">
-  <img align="center" alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" />
 </div><br/>
 
 	
