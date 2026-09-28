@@ -13,13 +13,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-dark&color_snake=%230F2A5F&color_dots=%2314263D%231B3555%2324476D%232E5F91%233B82C4
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%230F2A5F&color_dots=%2314263D%231B3555%2324476D%232E5F%233B82C4
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
