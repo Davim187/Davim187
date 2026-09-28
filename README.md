@@ -86,8 +86,9 @@ export const eu = new Davi();
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davim187/davim187/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/davim187/davim187/output/github-snake.svg" alt="snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davim187/Davim187/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davim187/Davim187/output/breakout-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Davim187/Davim187/output/breakout-contribution-graph.svg" alt="Breakout quebrando minhas contribuições" />
 </picture>
 
 </div>
